@@ -1,0 +1,1 @@
+// Module definition for comparator_4bit.v
